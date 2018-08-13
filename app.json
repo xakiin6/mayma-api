@@ -1,7 +1,7 @@
 {
-  "name": "AspNet5DemoApp",
-  "description": "Demo app on ASP.NET Core",
-  "repository": "https://github.com/jincod/AspNet5DemoApp",
+  "name": "Server",
+  "description": "Server on ASP.NET Core",
+  "repository": "https://github.com/xakiin6/mayma-api",
   "keywords": ["aspnet", "core"],
   "stack": "heroku-16",
   "buildpacks": [
