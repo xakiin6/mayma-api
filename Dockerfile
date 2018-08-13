@@ -1,4 +1,4 @@
 FROM microsoft/aspnetcore
-WORKDIR /app
+WORKDIR /
 COPY . .
 CMD ASPNETCORE_URLS=http://*:$PORT dotnet Server.dll
